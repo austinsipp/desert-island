@@ -1,0 +1,12 @@
+body {
+    background-color: lightyellow;
+
+}
+
+img {
+    text-align:center;
+    width: 250px;
+    height: auto;
+    margin:auto;
+    display:block;
+}
